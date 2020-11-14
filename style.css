@@ -31,3 +31,21 @@
 .environment_li p{
     margin-top:10px;
 }
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-to: 100px;
+}
+.img modal{
+    display: inline-block;
+}
+.p modal{
+    margin-top: 10px;
+}
+.modal body{
+    text-align: center;
+}
